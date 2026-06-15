@@ -1,2 +1,2 @@
-# Invention A
-The FIRST fork's paper.
+# Invention B
+The SECOND fork's paper.
